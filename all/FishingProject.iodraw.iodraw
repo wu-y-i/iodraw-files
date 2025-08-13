@@ -125,6 +125,9 @@
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-61" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-58">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-62" value="GamePanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="640" y="235" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
