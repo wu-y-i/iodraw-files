@@ -69,7 +69,7 @@
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-29" value="+ Gold: INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-28">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-30" value="+ XPosition: Float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-28">
+        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-30" value="+ BestScore : INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-28">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-31" value="+ Time: Float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-28">
