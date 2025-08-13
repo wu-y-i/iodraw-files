@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-41" value="FishHook" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="500" y="235" width="130" height="60" as="geometry" />
+          <mxGeometry x="450" y="235" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gz6Bt6W1-nq44bxAJq-x-43" target="Gz6Bt6W1-nq44bxAJq-x-41">
           <mxGeometry relative="1" as="geometry" />
@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-58" value="IInputSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="230" y="640" width="160" height="86" as="geometry" />
+          <mxGeometry x="400" y="630" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-59" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-58">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
