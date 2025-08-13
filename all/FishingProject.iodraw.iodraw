@@ -74,7 +74,7 @@
           <mxGeometry x="-280" y="140" width="370" height="500" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-46" value="FishConfig: SO" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="190" width="160" height="86" as="geometry" />
+          <mxGeometry x="-190" y="209" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-47" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-46">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
