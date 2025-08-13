@@ -70,6 +70,9 @@
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-43" value="Fish" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="235" y="235" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-44" value="&lt;h2&gt;&lt;font&gt;View+Controller&lt;/font&gt;&lt;/h2&gt;" style="html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="150" width="370" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
