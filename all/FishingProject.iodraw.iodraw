@@ -61,8 +61,8 @@
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-40" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-37">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-41" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="190" width="110" height="50" as="geometry" />
+        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-41" value="Object" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="190" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
