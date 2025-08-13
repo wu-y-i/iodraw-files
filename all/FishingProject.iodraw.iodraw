@@ -21,7 +21,7 @@
             <mxGeometry y="26" width="160" height="24" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-5">
+        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-9" value="Score: INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-5">
           <mxGeometry y="50" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-5">
