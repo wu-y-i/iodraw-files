@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-2" value="&lt;h1&gt;Fishing App&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="920" height="1360" as="geometry" />
+          <mxGeometry x="70" y="30" width="920" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-1" value="&lt;h2&gt;&lt;font&gt;Model&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;fontFamily=Times New Roman;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="870" width="785" height="240" as="geometry" />
@@ -45,18 +45,6 @@
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-30" value="+ BestScore : INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-28">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-32" value="IInputSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="630" width="160" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-33" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-32">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-32">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-35" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Gz6Bt6W1-nq44bxAJq-x-32">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
