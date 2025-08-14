@@ -62,10 +62,10 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-42" value="&lt;h2&gt;&lt;font&gt;View+Controller&lt;/font&gt;&lt;/h2&gt;" style="html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=Times New Roman;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="137.5" y="140" width="1442.5" height="250" as="geometry" />
+          <mxGeometry x="137.5" y="140" width="1442.5" height="350" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="170" y="200" width="590" height="180" as="geometry" />
+          <mxGeometry x="170" y="200" width="590" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-41" value="FishHook" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="430" y="212" width="130" height="60" as="geometry" />
@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-43" value="Fish" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="220" y="295" width="130" height="60" as="geometry" />
+          <mxGeometry x="220" y="330" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-44" value="&lt;h2&gt;&lt;font&gt;Configurations&lt;/font&gt;&lt;/h2&gt;" style="html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=Times New Roman;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="140" width="370" height="500" as="geometry" />
