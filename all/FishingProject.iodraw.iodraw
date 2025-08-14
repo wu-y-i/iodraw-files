@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="c9HTflrciOXcRbCwpfVJ">
-    <mxGraphModel dx="2112" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1731" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,6 +147,9 @@
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;UI&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="820" y="200" width="590" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="6wq4yEnDm7DCCuy5_fDc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gz6Bt6W1-nq44bxAJq-x-62" target="6wq4yEnDm7DCCuy5_fDc-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-62" value="GameStartPanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="840" y="285" width="130" height="60" as="geometry" />
         </mxCell>
@@ -224,7 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-35" value="StartGameCommand" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;swimlaneLine=1;glass=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="512.5" width="160" height="27" as="geometry" />
+          <mxGeometry x="825" y="512.5" width="160" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
