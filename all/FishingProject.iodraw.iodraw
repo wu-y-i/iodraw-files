@@ -176,7 +176,7 @@
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-18" value="GamePanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1010" y="285" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6wq4yEnDm7DCCuy5_fDc-19" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
+        <mxCell id="6wq4yEnDm7DCCuy5_fDc-19" value="MoveHookEvent" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
