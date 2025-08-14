@@ -208,7 +208,7 @@
           <mxGeometry x="1010" y="285" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-20" value="MoveHookEvent" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;swimlaneLine=1;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="220" y="500" width="160" height="52" as="geometry" />
+          <mxGeometry x="220" y="539.5" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-21" value="+ deltaX: FLOAT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="6wq4yEnDm7DCCuy5_fDc-20">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -232,7 +232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-39" value="GameStartEvent" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rounded=1;swimlaneLine=1;glass=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="593" width="160" height="27" as="geometry" />
+          <mxGeometry x="850" y="580" width="160" height="27" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6wq4yEnDm7DCCuy5_fDc-38" target="6wq4yEnDm7DCCuy5_fDc-39">
           <mxGeometry relative="1" as="geometry">
