@@ -143,8 +143,11 @@
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-3" value="CameraManager" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;verticalAlign=top;" vertex="1" parent="6wq4yEnDm7DCCuy5_fDc-8">
           <mxGeometry width="130" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="6wq4yEnDm7DCCuy5_fDc-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6wq4yEnDm7DCCuy5_fDc-8">
+        <mxCell id="6wq4yEnDm7DCCuy5_fDc-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;CommonCamera&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6wq4yEnDm7DCCuy5_fDc-8">
           <mxGeometry y="36" width="130" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="6wq4yEnDm7DCCuy5_fDc-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;CommonCamera&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="256" width="130" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
