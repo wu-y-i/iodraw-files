@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-43" value="Fish" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="235" y="235" width="130" height="60" as="geometry" />
+          <mxGeometry x="220" y="290" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-44" value="&lt;h2&gt;&lt;font&gt;Configurations&lt;/font&gt;&lt;/h2&gt;" style="html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=Times New Roman;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="140" width="370" height="500" as="geometry" />
@@ -127,6 +127,9 @@
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-3" value="CameraManager" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="610" y="235" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6wq4yEnDm7DCCuy5_fDc-4" value="Fishes" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
