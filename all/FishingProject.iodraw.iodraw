@@ -138,7 +138,7 @@
           <mxGeometry x="220" y="210" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="610" y="230" width="130" height="140" as="geometry" />
+          <mxGeometry x="620" y="210" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-10" value="" style="group" vertex="1" connectable="0" parent="6wq4yEnDm7DCCuy5_fDc-8">
           <mxGeometry width="130" height="140" as="geometry" />
@@ -147,10 +147,10 @@
           <mxGeometry width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;CommonCamera&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6wq4yEnDm7DCCuy5_fDc-10">
-          <mxGeometry y="28" width="130" height="34.22222222222222" as="geometry" />
+          <mxGeometry y="45.78" width="130" height="34.22222222222222" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;CommonCamera&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6wq4yEnDm7DCCuy5_fDc-10">
-          <mxGeometry y="62.22222222222222" width="130" height="34.22222222222222" as="geometry" />
+          <mxGeometry y="80.00222222222223" width="130" height="34.22222222222222" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
