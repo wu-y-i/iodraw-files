@@ -67,22 +67,6 @@
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="170" y="200" width="590" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="295" />
-              <mxPoint x="490" y="463" />
-              <mxPoint x="270" y="463" />
-            </Array>
-            <mxPoint x="485" y="295" as="sourcePoint" />
-            <mxPoint x="270" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-57" value="Regist Event" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Gz6Bt6W1-nq44bxAJq-x-56" vertex="1" connectable="0">
-          <mxGeometry x="0.1839" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-41" value="FishHook" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="450" y="235" width="130" height="60" as="geometry" />
         </mxCell>
@@ -135,11 +119,11 @@
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-61" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Gz6Bt6W1-nq44bxAJq-x-58" vertex="1">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-62" value="GameStartPanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="922.5" y="50" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;UI&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="780" y="200" width="590" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-62" value="GameStartPanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="850" y="230" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
