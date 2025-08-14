@@ -85,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6wq4yEnDm7DCCuy5_fDc-27" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6wq4yEnDm7DCCuy5_fDc-26">
+        <mxCell id="6wq4yEnDm7DCCuy5_fDc-27" value="Collect Fish Information&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6wq4yEnDm7DCCuy5_fDc-26">
           <mxGeometry x="0.5741" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
