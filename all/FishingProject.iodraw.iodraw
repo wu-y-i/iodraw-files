@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="c9HTflrciOXcRbCwpfVJ">
-    <mxGraphModel dx="1525" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
           <mxGeometry y="60" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;UI&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="290" width="437.5" height="160" as="geometry" />
+          <mxGeometry x="1000" y="290" width="437.5" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-62" value="GameStartPanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1000" y="375" width="130" height="60" as="geometry" />
@@ -257,6 +257,14 @@
         </mxCell>
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-22" value="Shield" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="470" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wx9xiyh1c0CoIcUrNsvr-23" target="Wx9xiyh1c0CoIcUrNsvr-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592" y="460" />
+              <mxPoint x="540" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-23" value="Deliver" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="560" y="470" width="65" height="30" as="geometry" />
