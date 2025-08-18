@@ -229,7 +229,7 @@
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-16" value="Game" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="820" y="300" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-17" value="Game" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-17" value="BackGround" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="820" y="362" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
