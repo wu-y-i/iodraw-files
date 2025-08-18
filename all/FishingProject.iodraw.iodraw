@@ -241,8 +241,14 @@
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-18" value="HookProp" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="442.5" y="380" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-21" value="HookProp" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="400" y="470" width="130" height="60" as="geometry" />
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-21" value="FishNet" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="400" y="470" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-22" value="Shield" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="477.5" y="470" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-23" value="Shield" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="480" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
