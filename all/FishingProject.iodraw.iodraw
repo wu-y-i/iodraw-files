@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-62" value="GameStartPanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1221.67" y="350" width="88.33" height="35" as="geometry" />
+          <mxGeometry x="1231.67" y="350" width="88.33" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6wq4yEnDm7DCCuy5_fDc-4" target="Gz6Bt6W1-nq44bxAJq-x-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -282,7 +282,7 @@
           <mxGeometry x="1121.67" y="350" width="88.33" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-29" value="GamePanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="350" width="88.33" height="35" as="geometry" />
+          <mxGeometry x="1330" y="350" width="88.33" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-30" value="AudioPanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1019.1700000000001" y="402" width="88.33" height="35" as="geometry" />
