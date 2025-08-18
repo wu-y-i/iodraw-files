@@ -324,6 +324,16 @@
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-31" value="GamePausePanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1400" y="437" width="88.33" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wx9xiyh1c0CoIcUrNsvr-32" target="Wx9xiyh1c0CoIcUrNsvr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wx9xiyh1c0CoIcUrNsvr-32" target="Wx9xiyh1c0CoIcUrNsvr-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1382" y="489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-32" value="GameFinishPanel" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1400" y="480" width="88.33" height="35" as="geometry" />
         </mxCell>
