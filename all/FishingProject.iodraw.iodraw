@@ -247,8 +247,8 @@
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-22" value="Shield" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="477.5" y="470" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-23" value="Shield" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="480" width="65" height="30" as="geometry" />
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-23" value="Deliver" style="html=1;whiteSpace=wrap;rounded=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
