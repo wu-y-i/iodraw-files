@@ -412,7 +412,7 @@
           <mxGeometry y="26" width="132.5" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-77" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;为简洁，该图省去了模块间的交互，仅保留实体&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="1186" width="577" height="184" as="geometry" />
+          <mxGeometry x="970" y="1290" width="600" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
