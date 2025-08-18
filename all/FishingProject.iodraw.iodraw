@@ -383,6 +383,14 @@
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-66" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;游戏结束&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1520.0017449791355" y="484.99809870679104" as="geometry" />
         </mxCell>
+        <mxCell id="Wx9xiyh1c0CoIcUrNsvr-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wx9xiyh1c0CoIcUrNsvr-69" target="Gz6Bt6W1-nq44bxAJq-x-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="710" />
+              <mxPoint x="298" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-69" value="WindowsInputSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="170" y="720" width="140" height="34" as="geometry" />
         </mxCell>
