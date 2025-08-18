@@ -153,7 +153,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-44" value="Configurations&lt;span style=&quot;background-color: initial;&quot;&gt;Model&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="610" y="880" width="210" height="104" as="geometry" />
+          <mxGeometry x="630" y="828" width="210" height="104" as="geometry" />
         </mxCell>
         <mxCell id="6wq4yEnDm7DCCuy5_fDc-45" value="+ FishConfigs: Dict&amp;lt;int, FishConfig&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="6wq4yEnDm7DCCuy5_fDc-44" vertex="1">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -165,7 +165,7 @@
           <mxGeometry y="78" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Wx9xiyh1c0CoIcUrNsvr-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="990" y="790" width="210" height="320" as="geometry" />
+          <mxGeometry x="990" y="736" width="210" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-44" value="&lt;h2&gt;&lt;font&gt;Configurations&lt;/font&gt;&lt;/h2&gt;" style="html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=Times New Roman;dashed=1;" parent="Wx9xiyh1c0CoIcUrNsvr-6" vertex="1">
           <mxGeometry width="210" height="320" as="geometry" />
