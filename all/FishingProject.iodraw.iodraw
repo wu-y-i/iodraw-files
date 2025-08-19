@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="c9HTflrciOXcRbCwpfVJ">
-    <mxGraphModel dx="814" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2713" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,7 +443,7 @@
           <mxGeometry y="-14" width="319" height="178" as="geometry" />
         </mxCell>
         <mxCell id="MulPhb4Xrz6MJwlHtVzj-24" value="LevelData" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="MulPhb4Xrz6MJwlHtVzj-14">
-          <mxGeometry x="30" width="160" height="164" as="geometry" />
+          <mxGeometry x="79.5" y="-7" width="160" height="164" as="geometry" />
         </mxCell>
         <mxCell id="MulPhb4Xrz6MJwlHtVzj-25" value="+ levelId : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="MulPhb4Xrz6MJwlHtVzj-24">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
