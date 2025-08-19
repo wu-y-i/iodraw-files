@@ -49,7 +49,7 @@
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-39" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Gz6Bt6W1-nq44bxAJq-x-37" vertex="1">
           <mxGeometry y="26" width="330" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-40" value="+ Load&amp;lt;T&amp;gt;(key: string, defaultValue = default : T)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Gz6Bt6W1-nq44bxAJq-x-37" vertex="1">
+        <mxCell id="Gz6Bt6W1-nq44bxAJq-x-40" value="+ Load&amp;lt;T&amp;gt;(key: string, defaultValue = default : T) : T" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="Gz6Bt6W1-nq44bxAJq-x-37" vertex="1">
           <mxGeometry y="34" width="330" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Gz6Bt6W1-nq44bxAJq-x-42" value="&lt;h2&gt;&lt;font&gt;View+Controller&lt;/font&gt;&lt;/h2&gt;" style="html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=Times New Roman;dashed=1;" parent="1" vertex="1">
