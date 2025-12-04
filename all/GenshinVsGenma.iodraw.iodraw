@@ -55,8 +55,11 @@
         </mxCell>
         <mxCell id="JCTijfUXeA9eEMY_txdL-16" value="UnSelected || !WaitingCondition" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JCTijfUXeA9eEMY_txdL-15">
           <mxGeometry x="-0.2441" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="80" y="-15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JCTijfUXeA9eEMY_txdL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JCTijfUXeA9eEMY_txdL-4" target="JCTijfUXeA9eEMY_txdL-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JCTijfUXeA9eEMY_txdL-4" value="SelectState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="340" width="120" height="60" as="geometry" />
