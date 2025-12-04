@@ -9,20 +9,20 @@
         </mxCell>
         <mxCell id="JCTijfUXeA9eEMY_txdL-6" value="Timer &amp;gt;= Time" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JCTijfUXeA9eEMY_txdL-5">
           <mxGeometry x="-0.2168" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="24" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JCTijfUXeA9eEMY_txdL-1" value="CoolDownState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JCTijfUXeA9eEMY_txdL-2" value="WaitingState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JCTijfUXeA9eEMY_txdL-3" value="ReadyState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JCTijfUXeA9eEMY_txdL-4" value="SelectState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
