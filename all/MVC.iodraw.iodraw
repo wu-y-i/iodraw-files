@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UIt4WeCwn4KzNO-SnR7L-1" value="InnerGameStoreModel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="1">
+        <mxCell id="UIt4WeCwn4KzNO-SnR7L-1" value="&lt;b&gt;InnerGameStoreModel&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="1">
           <mxGeometry x="50" y="620" width="180" height="52" as="geometry" />
         </mxCell>
         <mxCell id="UIt4WeCwn4KzNO-SnR7L-2" value="+ CurrentMora: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-1">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UIt4WeCwn4KzNO-SnR7L-5" value="InnerCharacterInfoModel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="1">
+        <mxCell id="UIt4WeCwn4KzNO-SnR7L-5" value="&lt;b&gt;InnerCharacterInfoModel&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="460" height="78" as="geometry" />
         </mxCell>
         <mxCell id="UIt4WeCwn4KzNO-SnR7L-6" value="+ CharacterList: List&amp;lt;CharacterId&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-5">
@@ -19,7 +19,7 @@
         <mxCell id="UIt4WeCwn4KzNO-SnR7L-7" value="+ InnerCharacterInfoDict: Dict&amp;lt;CharacterId, InnerCharacterInfo&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-5">
           <mxGeometry y="52" width="460" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UIt4WeCwn4KzNO-SnR7L-9" value="CharacterConfigModel" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="1">
+        <mxCell id="UIt4WeCwn4KzNO-SnR7L-9" value="&lt;b&gt;CharacterConfigModel&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="1">
           <mxGeometry x="750" y="620" width="420" height="78" as="geometry" />
         </mxCell>
         <mxCell id="UIt4WeCwn4KzNO-SnR7L-10" value="+ CharacterList: List&amp;lt;CharacterId&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-9">
