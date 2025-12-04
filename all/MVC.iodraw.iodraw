@@ -106,7 +106,7 @@
         <mxCell id="UIt4WeCwn4KzNO-SnR7L-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Consolas;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-39">
           <mxGeometry y="52" width="340" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="UIt4WeCwn4KzNO-SnR7L-42" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-39">
+        <mxCell id="UIt4WeCwn4KzNO-SnR7L-42" value="+ SetSelectedItem(ISelectable): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Consolas;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-39">
           <mxGeometry y="60" width="340" height="26" as="geometry" />
         </mxCell>
       </root>
