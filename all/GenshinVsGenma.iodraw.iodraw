@@ -10,8 +10,11 @@
         <mxCell id="JCTijfUXeA9eEMY_txdL-2" value="WaitingState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JCTijfUXeA9eEMY_txdL-3" value="CoolDownState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JCTijfUXeA9eEMY_txdL-3" value="ReadyState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JCTijfUXeA9eEMY_txdL-4" value="SelectState" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
