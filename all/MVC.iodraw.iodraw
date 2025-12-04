@@ -76,10 +76,10 @@
         <mxCell id="UIt4WeCwn4KzNO-SnR7L-30" value="+ characterSprite : Sprite" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-21">
           <mxGeometry y="234" width="420" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UIt4WeCwn4KzNO-SnR7L-31" value="+ showCharacterSprite" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-21">
+        <mxCell id="UIt4WeCwn4KzNO-SnR7L-31" value="+ showCharacterSprite : Sprite" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-21">
           <mxGeometry y="260" width="420" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UIt4WeCwn4KzNO-SnR7L-32" value="+ elementType : Element" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-21">
+        <mxCell id="UIt4WeCwn4KzNO-SnR7L-32" value="+ skillIconSprite : Sprite" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-21">
           <mxGeometry y="286" width="420" height="26" as="geometry" />
         </mxCell>
         <mxCell id="UIt4WeCwn4KzNO-SnR7L-33" value="+ elementType : Element" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="UIt4WeCwn4KzNO-SnR7L-21">
