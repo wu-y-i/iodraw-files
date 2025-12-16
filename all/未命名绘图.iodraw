@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z6cpe09yU-GiS-Rm8xuE-1" value="" style="group;verticalAlign=top;align=center;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="109" y="360" width="610" height="420" as="geometry" />
+          <mxGeometry x="40" y="400" width="610" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Z6cpe09yU-GiS-Rm8xuE-2" value="CellFSM" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="Z6cpe09yU-GiS-Rm8xuE-1">
           <mxGeometry x="10" y="-20" width="610" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Z6cpe09yU-GiS-Rm8xuE-5" value="Available" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z6cpe09yU-GiS-Rm8xuE-1">
           <mxGeometry x="40" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6cpe09yU-GiS-Rm8xuE-25" value="Preview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z6cpe09yU-GiS-Rm8xuE-1">
+          <mxGeometry x="185" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
