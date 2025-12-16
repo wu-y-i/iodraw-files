@@ -21,6 +21,14 @@
         <mxCell id="Z6cpe09yU-GiS-Rm8xuE-5" value="Available" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z6cpe09yU-GiS-Rm8xuE-1">
           <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z6cpe09yU-GiS-Rm8xuE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Z6cpe09yU-GiS-Rm8xuE-1" source="Z6cpe09yU-GiS-Rm8xuE-25" target="Z6cpe09yU-GiS-Rm8xuE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6cpe09yU-GiS-Rm8xuE-30" value="EndPreview" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6cpe09yU-GiS-Rm8xuE-29">
+          <mxGeometry x="0.0929" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z6cpe09yU-GiS-Rm8xuE-25" value="Preview" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Z6cpe09yU-GiS-Rm8xuE-1">
           <mxGeometry x="460" y="50" width="120" height="60" as="geometry" />
         </mxCell>
