@@ -38,9 +38,9 @@
         <mxCell id="Z6cpe09yU-GiS-Rm8xuE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.995;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Z6cpe09yU-GiS-Rm8xuE-1" source="Z6cpe09yU-GiS-Rm8xuE-25" target="Z6cpe09yU-GiS-Rm8xuE-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z6cpe09yU-GiS-Rm8xuE-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6cpe09yU-GiS-Rm8xuE-31">
+        <mxCell id="Z6cpe09yU-GiS-Rm8xuE-32" value="ApplyPreview" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z6cpe09yU-GiS-Rm8xuE-31">
           <mxGeometry x="0.6379" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="33" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
