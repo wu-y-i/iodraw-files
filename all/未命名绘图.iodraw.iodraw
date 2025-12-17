@@ -127,6 +127,11 @@
             <mxPoint x="116" y="-75" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-44" value="通知预览" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="COu9SDcGxDiZ2DbPEWMV-42">
+          <mxGeometry x="0.2277" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
