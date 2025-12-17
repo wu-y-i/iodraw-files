@@ -132,6 +132,14 @@
             <mxPoint y="51" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="COu9SDcGxDiZ2DbPEWMV-41" target="COu9SDcGxDiZ2DbPEWMV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-64" value="点选：设置选中" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="COu9SDcGxDiZ2DbPEWMV-63">
+          <mxGeometry x="0.0976" y="3" relative="1" as="geometry">
+            <mxPoint x="-20" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-41" value="Card" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1100" y="567" width="200" height="123" as="geometry" />
         </mxCell>
