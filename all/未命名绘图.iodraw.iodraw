@@ -129,6 +129,14 @@
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-44" value="通知预览" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="COu9SDcGxDiZ2DbPEWMV-42">
           <mxGeometry x="0.2277" y="-1" relative="1" as="geometry">
+            <mxPoint x="-28" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=-0.158;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="COu9SDcGxDiZ2DbPEWMV-41" target="COu9SDcGxDiZ2DbPEWMV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-46" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="COu9SDcGxDiZ2DbPEWMV-45">
+          <mxGeometry x="-0.0889" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
