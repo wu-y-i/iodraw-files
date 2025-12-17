@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="M4gJeIHQ1nNp6a3w291I">
-    <mxGraphModel dx="1185" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-1" value="MousePropSystem" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="630" height="380" as="geometry" />
+          <mxGeometry x="70" y="220" width="780" height="380" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-2" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="260" width="570" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry y="60" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-10" value="PreviewAndApply" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="400" width="160" height="86" as="geometry" />
+          <mxGeometry x="330" y="400" width="160" height="112" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-11" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="COu9SDcGxDiZ2DbPEWMV-10">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-13" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="COu9SDcGxDiZ2DbPEWMV-10">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="COu9SDcGxDiZ2DbPEWMV-10">
+          <mxGeometry y="86" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
