@@ -65,7 +65,15 @@
           <mxGeometry y="138" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-30" value="Cell" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="430" width="110" height="50" as="geometry" />
+          <mxGeometry x="-310" y="430" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.314;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="COu9SDcGxDiZ2DbPEWMV-30" target="COu9SDcGxDiZ2DbPEWMV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="COu9SDcGxDiZ2DbPEWMV-31">
+          <mxGeometry x="-0.1515" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
