@@ -7,8 +7,8 @@
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-1" value="MousePropSystem" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="630" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="COu9SDcGxDiZ2DbPEWMV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-2" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="570" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
