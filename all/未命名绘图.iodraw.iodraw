@@ -64,8 +64,8 @@
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-28" value="+ UpdateFollow" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="COu9SDcGxDiZ2DbPEWMV-22">
           <mxGeometry y="138" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="COu9SDcGxDiZ2DbPEWMV-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="478" width="120" height="60" as="geometry" />
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-30" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="462" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
