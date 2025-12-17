@@ -4,19 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="COu9SDcGxDiZ2DbPEWMV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="COu9SDcGxDiZ2DbPEWMV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-20" y="575" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-1" value="MousePropSystem" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="890" height="710" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-2" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="354" width="210" height="460" as="geometry" />
+          <mxGeometry x="100" y="380" width="210" height="460" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-6" value="Select" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="600" width="210" height="86" as="geometry" />
+          <mxGeometry x="580" y="600" width="210" height="86" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-7" value="+ SelectedItem : ISelectable" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="COu9SDcGxDiZ2DbPEWMV-6">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
@@ -28,7 +23,7 @@
           <mxGeometry y="60" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-10" value="PreviewAndApply" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="400" width="230" height="164" as="geometry" />
+          <mxGeometry x="580" y="400" width="230" height="164" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-11" value="+ previewingCell : Cell" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="COu9SDcGxDiZ2DbPEWMV-10">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
@@ -49,7 +44,7 @@
           <mxGeometry y="138" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-22" value="FollowMouse" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="710" width="260" height="164" as="geometry" />
+          <mxGeometry x="580" y="710" width="260" height="164" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-23" value="+ camera : Camera // 缓存" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="COu9SDcGxDiZ2DbPEWMV-22">
           <mxGeometry y="26" width="260" height="26" as="geometry" />
