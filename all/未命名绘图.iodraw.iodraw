@@ -18,6 +18,9 @@
             <mxPoint y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="COu9SDcGxDiZ2DbPEWMV-2" target="COu9SDcGxDiZ2DbPEWMV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-2" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="210" height="460" as="geometry" />
         </mxCell>
@@ -34,7 +37,7 @@
           <mxGeometry y="60" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-10" value="PreviewAndApply" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="597" y="540" width="230" height="164" as="geometry" />
+          <mxGeometry x="580" y="520" width="230" height="164" as="geometry" />
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-11" value="+ previewingCell : Cell" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="COu9SDcGxDiZ2DbPEWMV-10">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
