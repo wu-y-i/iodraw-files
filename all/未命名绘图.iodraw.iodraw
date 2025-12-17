@@ -7,8 +7,16 @@
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-1" value="MousePropSystem" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="70" y="220" width="890" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="COu9SDcGxDiZ2DbPEWMV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="COu9SDcGxDiZ2DbPEWMV-2" target="COu9SDcGxDiZ2DbPEWMV-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.32;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="440.69" as="sourcePoint" />
+            <mxPoint x="579.5399999999995" y="440.01000000000016" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COu9SDcGxDiZ2DbPEWMV-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="COu9SDcGxDiZ2DbPEWMV-34">
+          <mxGeometry x="0.074" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="COu9SDcGxDiZ2DbPEWMV-2" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="380" width="210" height="460" as="geometry" />
