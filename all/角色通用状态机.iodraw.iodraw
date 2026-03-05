@@ -7,19 +7,17 @@
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-1" value="StandBy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKLYiKoXfrn9WOMwwd7i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PKLYiKoXfrn9WOMwwd7i-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-2" value="Turning" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="320" width="180" height="320" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-3" value="InSkill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-4" value="Attacking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PKLYiKoXfrn9WOMwwd7i-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
