@@ -8,7 +8,7 @@
           <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-4" value="Attacking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="320" width="180" height="250" as="geometry" />
@@ -28,10 +28,10 @@
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-10" value="InSkill" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
           <mxGeometry width="180" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="PKLYiKoXfrn9WOMwwd7i-11" value="Turn Left" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
+        <mxCell id="PKLYiKoXfrn9WOMwwd7i-11" value="Skill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
           <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKLYiKoXfrn9WOMwwd7i-12" value="Turn Right" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
+        <mxCell id="PKLYiKoXfrn9WOMwwd7i-12" value="Burst" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
           <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
