@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-1" value="StandBy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="310" width="120" height="310" as="geometry" />
+          <mxGeometry x="140" y="310" width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="450" y="310" width="180" height="310" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="198.4" width="120" height="74.4" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="110" width="180" height="250" as="geometry" />
+          <mxGeometry x="530" y="10" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-10" value="InSkill" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
           <mxGeometry width="180" height="250" as="geometry" />
