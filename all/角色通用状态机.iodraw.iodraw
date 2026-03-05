@@ -7,9 +7,6 @@
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-1" value="StandBy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKLYiKoXfrn9WOMwwd7i-3" value="InSkill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-4" value="Attacking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -23,6 +20,18 @@
           <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-7" value="Turn Right" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-8">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PKLYiKoXfrn9WOMwwd7i-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="320" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="PKLYiKoXfrn9WOMwwd7i-10" value="InSkill" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
+          <mxGeometry width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="PKLYiKoXfrn9WOMwwd7i-11" value="Turn Left" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
+          <mxGeometry x="30" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PKLYiKoXfrn9WOMwwd7i-12" value="Turn Right" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PKLYiKoXfrn9WOMwwd7i-9">
           <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
