@@ -11,10 +11,10 @@
           <mxGeometry x="-85" y="92.5" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-4" value="知识库中参考该&lt;div&gt;具体场景的特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-220" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-5" value="根据用户具体要求&lt;div&gt;总结场景特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-6" value="&lt;font face=&quot;宋体&quot;&gt;用户给出模型实体&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;要求了吗&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="90" width="160" height="75" as="geometry" />
