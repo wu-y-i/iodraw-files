@@ -29,10 +29,13 @@
           <mxGeometry x="600" y="92.5" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-11" value="尝试将用户给出的文字化参数描述映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="620" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-12" value="尝试分析场景特征&lt;div&gt;结合模板映射具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="790" y="220" width="140" height="60" as="geometry" />
+          <mxGeometry x="610" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-13" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;让我们一步步分析&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-60" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
