@@ -20,10 +20,10 @@
           <mxGeometry x="254" y="90" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-8" value="尝试将用户给出的特征映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="270" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-9" value="尝试分析场景特征&lt;div&gt;结合模板映射具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="140" height="60" as="geometry" />
+          <mxGeometry x="264" y="230" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-10" value="&lt;font face=&quot;宋体&quot;&gt;用户给出具体参数&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;要求了吗&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="92.5" width="160" height="75" as="geometry" />
