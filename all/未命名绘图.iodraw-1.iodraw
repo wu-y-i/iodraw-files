@@ -10,7 +10,7 @@
         <mxCell id="s4xODB3hDt3Tey8jAEgY-2" value="&lt;font face=&quot;宋体&quot;&gt;用户明确提出&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;具体场景了吗&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="107.5" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-4" value="知识库中参考该&lt;div&gt;具体场景的特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="115" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
