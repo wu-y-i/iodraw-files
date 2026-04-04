@@ -17,7 +17,13 @@
           <mxGeometry x="90" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-6" value="&lt;font face=&quot;宋体&quot;&gt;用户给出模型实体&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;要求了吗&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="100" width="160" height="75" as="geometry" />
+          <mxGeometry x="240" y="107.5" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-8" value="尝试将用户给出的特征映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="440" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-9" value="尝试将用户给出的特征映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="450" y="125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
