@@ -28,6 +28,9 @@
         <mxCell id="s4xODB3hDt3Tey8jAEgY-10" value="&lt;font face=&quot;宋体&quot;&gt;用户给出具体参数&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;要求了吗&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="107.5" width="160" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-11" value="尝试将用户给出的文字化参数描述映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="800" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
