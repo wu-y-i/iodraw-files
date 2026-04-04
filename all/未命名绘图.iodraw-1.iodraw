@@ -72,14 +72,20 @@
         <mxCell id="s4xODB3hDt3Tey8jAEgY-10" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;用户给出具体参数&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;要求了吗&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="234" y="61.25" width="245.33" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s4xODB3hDt3Tey8jAEgY-11" target="s4xODB3hDt3Tey8jAEgY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-11" value="尝试将用户给出的文字化参数描述映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="705.34" y="78.75" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s4xODB3hDt3Tey8jAEgY-12" target="s4xODB3hDt3Tey8jAEgY-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-12" value="尝试分析场景特征&lt;div style=&quot;font-size: 18px;&quot;&gt;结合模板给出具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="504.67" y="78.75" width="186.67" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-13" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;结合输出规范层&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;输出完整配置&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="610" y="200" width="150" height="150" as="geometry" />
+          <mxGeometry x="610" y="320" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
