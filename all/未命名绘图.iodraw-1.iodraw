@@ -4,38 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-1" value="&lt;font face=&quot;宋体&quot;&gt;开始&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;让我们一步步分析&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;开始&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;让我们一步步分析&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-60" y="-60" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-2" value="&lt;font face=&quot;宋体&quot;&gt;用户明确提出&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;具体场景了吗&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;用户明确提出&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;具体场景了吗&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-85" y="92.5" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-4" value="知识库中参考该&lt;div&gt;具体场景的特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-4" value="知识库中参考该&lt;div style=&quot;font-size: 15px;&quot;&gt;具体场景的特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-220" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-5" value="根据用户具体要求&lt;div&gt;总结场景特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-5" value="根据用户具体要求&lt;div style=&quot;font-size: 15px;&quot;&gt;总结场景特征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-60" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-6" value="&lt;font face=&quot;宋体&quot;&gt;用户给出模型实体&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;要求了吗&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-6" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;用户给出模型实体&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;要求了吗&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="254" y="90" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-8" value="尝试将用户给出的特征映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-8" value="尝试将用户给出的特征映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="110" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-9" value="尝试分析场景特征&lt;div&gt;结合模板映射具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-9" value="尝试分析场景特征&lt;div style=&quot;font-size: 15px;&quot;&gt;结合模板映射具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="264" y="230" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-10" value="&lt;font face=&quot;宋体&quot;&gt;用户给出具体参数&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;要求了吗&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-10" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;用户给出具体参数&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;要求了吗&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="600" y="92.5" width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-11" value="尝试将用户给出的文字化参数描述映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-11" value="尝试将用户给出的文字化参数描述映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-12" value="尝试分析场景特征&lt;div&gt;结合模板给出具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-12" value="尝试分析场景特征&lt;div style=&quot;font-size: 15px;&quot;&gt;结合模板给出具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-13" value="&lt;font face=&quot;宋体&quot;&gt;结合输出规范层&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;输出完整配置&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-60" width="110" height="110" as="geometry" />
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-13" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;结合输出规范层&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 15px;&quot;&gt;输出完整配置&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-70" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
