@@ -10,6 +10,9 @@
         <mxCell id="s4xODB3hDt3Tey8jAEgY-2" value="&lt;font face=&quot;宋体&quot;&gt;用户明确提出&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;具体场景了吗&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="107.5" width="160" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="210" width="160" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
