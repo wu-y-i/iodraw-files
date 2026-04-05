@@ -105,8 +105,8 @@
         <mxCell id="s4xODB3hDt3Tey8jAEgY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s4xODB3hDt3Tey8jAEgY-11" target="s4xODB3hDt3Tey8jAEgY-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-11" value="尝试将用户给出的文字化参数描述映射到具体字段" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="705.34" y="78.75" width="160" height="80" as="geometry" />
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-11" value="尝试分析场景特征&lt;div&gt;结合模板给出具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="705.34" y="78.75" width="164.66" height="80" as="geometry" />
         </mxCell>
         <mxCell id="s4xODB3hDt3Tey8jAEgY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s4xODB3hDt3Tey8jAEgY-12" target="s4xODB3hDt3Tey8jAEgY-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
