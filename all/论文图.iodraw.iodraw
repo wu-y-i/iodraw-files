@@ -72,12 +72,14 @@
         <mxCell id="s4xODB3hDt3Tey8jAEgY-9" value="尝试分析场景特征&lt;div style=&quot;font-size: 18px;&quot;&gt;结合模板映射&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;具体字段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="273.33" y="220" width="166.67" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s4xODB3hDt3Tey8jAEgY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.563;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="s4xODB3hDt3Tey8jAEgY-10" target="s4xODB3hDt3Tey8jAEgY-11" edge="1">
+        <mxCell id="s4xODB3hDt3Tey8jAEgY-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="s4xODB3hDt3Tey8jAEgY-10" target="s4xODB3hDt3Tey8jAEgY-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="357" y="-30" />
-              <mxPoint x="795" y="-30" />
-              <mxPoint x="795" y="79" />
+              <mxPoint x="790" y="-30" />
+              <mxPoint x="790" y="80" />
+              <mxPoint x="798" y="80" />
+              <mxPoint x="798" y="79" />
             </Array>
           </mxGeometry>
         </mxCell>
