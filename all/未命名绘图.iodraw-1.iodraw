@@ -34,6 +34,9 @@
         <mxCell id="QA-XFpETKV104OolRUPd-9" value="BuffController" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QA-XFpETKV104OolRUPd-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
