@@ -80,7 +80,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-bG6SRU8vxQD8ukn_t68-10" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-bG6SRU8vxQD8ukn_t68-7" vertex="1" connectable="0">
+        <mxCell id="-bG6SRU8vxQD8ukn_t68-10" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=20;" parent="-bG6SRU8vxQD8ukn_t68-7" vertex="1" connectable="0">
           <mxGeometry x="0.7769" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -93,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-bG6SRU8vxQD8ukn_t68-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" parent="-bG6SRU8vxQD8ukn_t68-8" vertex="1" connectable="0">
+        <mxCell id="-bG6SRU8vxQD8ukn_t68-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=20;" parent="-bG6SRU8vxQD8ukn_t68-8" vertex="1" connectable="0">
           <mxGeometry x="0.7156" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
