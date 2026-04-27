@@ -95,7 +95,7 @@
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-17" value="SpecialAttack" style="rounded=0;whiteSpace=wrap;html=1;" parent="PKLYiKoXfrn9WOMwwd7i-13" vertex="1">
           <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PKLYiKoXfrn9WOMwwd7i-24" value="内部互转：SwitchAttackMode&lt;div&gt;不会立即转换，而是播放完当前combo后转换&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PKLYiKoXfrn9WOMwwd7i-13" vertex="1">
+        <mxCell id="PKLYiKoXfrn9WOMwwd7i-24" value="内部互转：SwitchAttackMode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PKLYiKoXfrn9WOMwwd7i-13" vertex="1">
           <mxGeometry x="55" y="250" width="290" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9gHQaG3MXqAENwHzrwCr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKLYiKoXfrn9WOMwwd7i-14" target="PKLYiKoXfrn9WOMwwd7i-2">
@@ -108,6 +108,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9gHQaG3MXqAENwHzrwCr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKLYiKoXfrn9WOMwwd7i-14" target="PKLYiKoXfrn9WOMwwd7i-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9gHQaG3MXqAENwHzrwCr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PKLYiKoXfrn9WOMwwd7i-10" target="PKLYiKoXfrn9WOMwwd7i-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
