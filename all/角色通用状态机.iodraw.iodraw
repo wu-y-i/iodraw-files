@@ -132,7 +132,7 @@
         </mxCell>
         <mxCell id="ya-wU9cjDBqrNHa2w1-U-12" value="用户操作" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gHQaG3MXqAENwHzrwCr-8">
           <mxGeometry x="-0.3611" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-30" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9gHQaG3MXqAENwHzrwCr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PKLYiKoXfrn9WOMwwd7i-10" target="PKLYiKoXfrn9WOMwwd7i-2" edge="1">
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="ya-wU9cjDBqrNHa2w1-U-4" value="Show" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="490" width="120" height="74.4" as="geometry" />
+        </mxCell>
+        <mxCell id="ya-wU9cjDBqrNHa2w1-U-13" value="内部互转：来自用户操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="795" y="570" width="290" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
