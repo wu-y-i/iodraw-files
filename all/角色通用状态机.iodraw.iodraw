@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.7.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gcDO--TJV0C0hfdZ3qFz">
-    <mxGraphModel dx="1728" dy="2157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-6" value="Turn Left" style="rounded=0;whiteSpace=wrap;html=1;" parent="PKLYiKoXfrn9WOMwwd7i-8" vertex="1">
-          <mxGeometry x="30" y="200" width="120" height="74.4" as="geometry" />
+          <mxGeometry x="40" y="200" width="120" height="74.4" as="geometry" />
         </mxCell>
         <mxCell id="PKLYiKoXfrn9WOMwwd7i-7" value="Turn Right" style="rounded=0;whiteSpace=wrap;html=1;" parent="PKLYiKoXfrn9WOMwwd7i-8" vertex="1">
           <mxGeometry x="30" y="40" width="120" height="74.4" as="geometry" />
