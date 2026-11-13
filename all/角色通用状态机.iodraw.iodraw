@@ -161,6 +161,9 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ya-wU9cjDBqrNHa2w1-U-18" value="内部互转：来自时间和概率&lt;div&gt;该状态监听EnemyInSight改变事件和释放技能事件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="585.6" width="160" height="44.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
