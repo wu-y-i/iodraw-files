@@ -122,13 +122,18 @@
         <mxCell id="9gHQaG3MXqAENwHzrwCr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="PKLYiKoXfrn9WOMwwd7i-7" target="PKLYiKoXfrn9WOMwwd7i-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ya-wU9cjDBqrNHa2w1-U-11" value="EnemyInSight = true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gHQaG3MXqAENwHzrwCr-6">
+        <mxCell id="ya-wU9cjDBqrNHa2w1-U-11" value="EnemyInSight = false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gHQaG3MXqAENwHzrwCr-6">
           <mxGeometry x="0.3279" y="-2" relative="1" as="geometry">
             <mxPoint x="16" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9gHQaG3MXqAENwHzrwCr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PKLYiKoXfrn9WOMwwd7i-14" target="PKLYiKoXfrn9WOMwwd7i-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ya-wU9cjDBqrNHa2w1-U-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9gHQaG3MXqAENwHzrwCr-8">
+          <mxGeometry x="-0.3611" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9gHQaG3MXqAENwHzrwCr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PKLYiKoXfrn9WOMwwd7i-10" target="PKLYiKoXfrn9WOMwwd7i-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
