@@ -156,7 +156,7 @@
         <mxCell id="ya-wU9cjDBqrNHa2w1-U-4" value="Show" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="490" width="120" height="74.4" as="geometry" />
         </mxCell>
-        <mxCell id="ya-wU9cjDBqrNHa2w1-U-13" value="内部互转：来自用户操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ya-wU9cjDBqrNHa2w1-U-13" value="内部互转：来自时间和概率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="575.6" width="160" height="44.4" as="geometry" />
         </mxCell>
       </root>
