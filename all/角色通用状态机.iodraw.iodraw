@@ -150,7 +150,7 @@
         <mxCell id="ya-wU9cjDBqrNHa2w1-U-13" value="内部互转：来自时间和概率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="575.6" width="160" height="44.4" as="geometry" />
         </mxCell>
-        <mxCell id="ya-wU9cjDBqrNHa2w1-U-17" value="所有互转均来自事件&lt;div&gt;转向期间事件会首先加入事件队列，e/q期间拒绝新的技能&lt;/div&gt;&lt;div&gt;在空闲帧的LateUpdate更新&lt;/div&gt;&lt;div&gt;空闲帧：Standby和Attacking的全部，以及InSkill的可打断帧&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;EnemyInSight = false所涉及的切换，应当在动画末尾帧进行，以便播放完成收尾动画&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ya-wU9cjDBqrNHa2w1-U-17" value="所有互转均来自事件&lt;div&gt;转向期间事件会首先加入事件队列，e/q期间拒绝新的技能&lt;/div&gt;&lt;div&gt;事件在空闲帧的LateUpdate更新&lt;/div&gt;&lt;div&gt;空闲帧：Standby和Attacking的全部，以及InSkill的可打断帧&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;EnemyInSight = false所涉及的切换，应当在动画末尾帧进行，以便播放完成收尾动画&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="110" width="450" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9gHQaG3MXqAENwHzrwCr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.768;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="PKLYiKoXfrn9WOMwwd7i-1" target="PKLYiKoXfrn9WOMwwd7i-6" edge="1">
