@@ -147,7 +147,7 @@
         <mxCell id="ya-wU9cjDBqrNHa2w1-U-4" value="Show" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="490" width="120" height="74.4" as="geometry" />
         </mxCell>
-        <mxCell id="ya-wU9cjDBqrNHa2w1-U-13" value="内部互转：来自时间和概率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ya-wU9cjDBqrNHa2w1-U-13" value="内部互转：来自时间和概率&lt;div&gt;该状态监听EnemyInSight改变事件和释放技能事件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="575.6" width="160" height="44.4" as="geometry" />
         </mxCell>
         <mxCell id="ya-wU9cjDBqrNHa2w1-U-17" value="所有互转均来自事件，EnemyInSight改变、动画播放结束也会作为事件广播&lt;div&gt;转向期间事件会首先加入事件队列，e/q期间拒绝新的技能&lt;/div&gt;&lt;div&gt;事件在空闲帧的LateUpdate从队列首取出并处理&lt;/div&gt;&lt;div&gt;空闲帧：Standby和Attacking的全部，以及InSkill的可打断帧&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;EnemyInSight = false所涉及的切换，应当在动画末尾帧进行，以便播放完成收尾动画&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
