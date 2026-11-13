@@ -157,7 +157,7 @@
           <mxGeometry x="170" y="490" width="120" height="74.4" as="geometry" />
         </mxCell>
         <mxCell id="ya-wU9cjDBqrNHa2w1-U-13" value="内部互转：来自用户操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="795" y="570" width="290" height="50" as="geometry" />
+          <mxGeometry x="150" y="575.6" width="160" height="44.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
