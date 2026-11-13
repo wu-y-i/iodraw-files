@@ -174,8 +174,8 @@
         <mxCell id="ya-wU9cjDBqrNHa2w1-U-13" value="内部互转：来自时间和概率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="575.6" width="160" height="44.4" as="geometry" />
         </mxCell>
-        <mxCell id="ya-wU9cjDBqrNHa2w1-U-17" value="所有互转均来自事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="ya-wU9cjDBqrNHa2w1-U-17" value="所有互转均来自事件&lt;div&gt;事件会首先加入事件队列&lt;/div&gt;&lt;div&gt;在空闲帧的LateUpdate更新&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="150" width="230" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
